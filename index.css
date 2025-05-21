@@ -1,0 +1,30 @@
+*{
+    background-color: bisque;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 12ot;
+    color: darkblue;
+}
+.item{
+    background-color: white;
+}
+.title{
+    color: crimson;
+}
+p{
+    margin: 30px, 15px, 30px, 15px;
+}
+h2{
+    background-color: brown;
+    color: white;
+}
+button{
+    margin: 25px;
+    padding: 30px;
+    background-color: crimson;
+    align-items: center;
+    border-style: dotted;
+    color: white;
+}
